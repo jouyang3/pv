@@ -10,7 +10,7 @@ This is an implementation of Phase-Vocoder in LabView. In the program, user can 
 3. After downloading from the repository, open MatLab.
 4. After MatLab is opened, double-click pitchVI.vi file to open it in LabView.
 5. Click run on LabView front panel to start the program.
-<br/><img src="https://github.com/jouyang3/pv/blob/master/images/RunLabView.png" width="500">
+<br/><img src="https://github.com/jouyang3/pv/blob/master/images/RunLabView.PNG" width="500">
 
 ## How to use this software
 ### Loading an audio file
@@ -23,19 +23,19 @@ First you have to open the audio file. User can perform this action by clicking 
 *. AIFC (.aifc)
 *. MP3 (.mp3)
 *. MPEG-4 AAC (.m4a, .mp4)
-<br/><img src="https://github.com/jouyang3/pv/blob/master/images/FP-Violin.png" width="500">
+<br/><img src="https://github.com/jouyang3/pv/blob/master/images/FP-Violin.PNG" width="500">
 
 ### Time-Stretching/Compressing audio file
 User has the option to make the file N times shorter or longer. Perform this by 
 1. specifying number N in the 'Stretch Ratio' field.
 2. clicking the 'Stretch' button.
-<br/><img src="https://github.com/jouyang3/pv/blob/master/images/FP-ViolinLong.png" width="500">
+<br/><img src="https://github.com/jouyang3/pv/blob/master/images/FP-ViolinLong.PNG" width="500">
 
 ### Pitch-shifting audio file
 User also has the option to make the file an Octave (O) higher or lower than the current audio. An Octave up is 2x the current frequencies and an octave down is 0.5x the current frequencies. Perform this by 
 1. specifying number (O) in the 'Pitch Shift (Octave)' field.
 2. clicking the 'Shift' button.
-<br/><img src="https://github.com/jouyang3/pv/blob/master/images/FP-ViolinHigh.png" width="500">
+<br/><img src="https://github.com/jouyang3/pv/blob/master/images/FP-ViolinHigh.PNG" width="500">
 
 
 
