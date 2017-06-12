@@ -3,6 +3,9 @@ A Phase Vocoder based on LabView and MatLab
 
 This is an implementation of Phase-Vocoder in LabView. In the program, user can load an audio file, then playback, stretch/compress and pitch shift it. Ultimately user can then choose to write the modified sound to disk.
 
+## License
+This software is distributed under GNUv2 License. For more information, please visit
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html.
 
 ## How to start this software
 1. Make sure you have installed LabView 2017 from National Instrument. You can evaluate the software for 30 days.
@@ -48,6 +51,7 @@ If user is unhappy with the modifications, user can clear the signal via the 'Cl
 ### Saving the file
 After user is satisfied with the changes, he/she can write to the disk by clicking the 'SAVE TO FILE' button. The file dialog will pop-up and user change choose where to save the file. The file will ALWAYS be written as a WAVE (.wav) file. 
 <br/><img src="https://github.com/jouyang3/pv/blob/master/images/FP-Save.PNG" width="500">
+<br/><img src="https://github.com/jouyang3/pv/blob/master/images/FP-SaveFD.PNG" width="500">
 
 ## Developing on the software
 
@@ -73,4 +77,9 @@ PITCHSHIFT shifts pitch up or down.
    ##### Output:
        1. psSamples - pitch shifted samples.
 
+## Reference
+[1] TRADITIONAL IMPLEMENTATIONSOF A PHASE-VOCODER: THE TRICKS OF THE TRADE.(http://www.cs.princeton.edu/courses/archive/spr09/cos325/Bernardini.pdf)
+[2] Phase-Vocoder: About this phasiness business (https://www.ee.columbia.edu/~dpwe/papers/LaroD97-phasiness.pdf).
 
+## Authorship
+Jun D. Ouyang [jdouyang@ucdavis.edu](mailto://jdouyang@ucdavis.edu)
