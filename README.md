@@ -78,8 +78,9 @@ PITCHSHIFT shifts pitch up or down.
        1. psSamples - pitch shifted samples.
 
 ## Reference
-[1] TRADITIONAL IMPLEMENTATIONSOF A PHASE-VOCODER: THE TRICKS OF THE TRADE.(http://www.cs.princeton.edu/courses/archive/spr09/cos325/Bernardini.pdf)
-[2] Phase-Vocoder: About this phasiness business (https://www.ee.columbia.edu/~dpwe/papers/LaroD97-phasiness.pdf).
+[[1] TRADITIONAL IMPLEMENTATIONSOF A PHASE-VOCODER: THE TRICKS OF THE TRADE.](http://www.cs.princeton.edu/courses/archive/spr09/cos325/Bernardini.pdf)
+
+[[2] Phase-Vocoder: About this phasiness business](https://www.ee.columbia.edu/~dpwe/papers/LaroD97-phasiness.pdf).
 
 ## Authorship
 Jun D. Ouyang [jdouyang@ucdavis.edu](mailto://jdouyang@ucdavis.edu)
